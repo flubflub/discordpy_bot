@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+/.idea/
+#*.db
+#*.db-journal
+/venv/
+.env
+config/keys.py
+/jdk-13.0.2/
+#/data/steam/
