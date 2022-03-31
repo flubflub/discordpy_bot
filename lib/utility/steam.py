@@ -1,6 +1,3 @@
-# steamID64: 76561198073025954
-# steamdID3: [U:1:112760226]
-# steamID: STEAM_0:0:56380113
 # source: https://gist.github.com/bcahue/4eae86ae1d10364bb66d
 
 steamid64_base = 76561197960265728
