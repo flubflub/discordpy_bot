@@ -1,3 +1,3 @@
 # discordbot
 
-dead library
+discord bot intented for single server use
