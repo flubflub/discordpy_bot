@@ -1,3 +1,3 @@
 # discordbot
 
-discord bot intented for single server use
+discord bot intended for single server use
